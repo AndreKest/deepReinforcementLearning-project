@@ -1,0 +1,8 @@
+,0
+learning_rate,0.006103072025366285
+buffer_size,100000.0
+learning_starts,1000.0
+batch_size,512.0
+tau,0.01
+gamma,0.8118750753566639
+policy_delay,5.0

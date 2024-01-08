@@ -1,0 +1,9 @@
+,0
+learning_rate,0.0031602368591769747
+buffer_size,1000000
+learning_starts,1000
+batch_size,256
+tau,0.1
+gamma,0.7114234713028273
+train_freq,1
+use_sde,False

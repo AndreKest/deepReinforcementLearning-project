@@ -1,0 +1,10 @@
+# Requirements file for pip
+# Install: pip install -r requirements.txt
+numpy==1.23.5
+matplotlib==3.6.2
+pandas==2.0.3
+gymnasium == 0.29.1
+stable-baselines3[extra]>=2.0.0a4
+torch==2.0.1+cu118
+optuna==3.5.0
+imageio==2.33.1

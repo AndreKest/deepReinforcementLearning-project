@@ -1,0 +1,8 @@
+,0
+learning_rate,0.005631339012611923
+buffer_size,100000.0
+learning_starts,1000.0
+batch_size,512.0
+tau,0.001
+gamma,0.8080554827554394
+train_freq,5.0
